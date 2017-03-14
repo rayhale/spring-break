@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ix4_stn_cz">
+    <title>Where we're staying in Key West</title>
+    <shortdesc>We are staying at a motel.</shortdesc>
+    <taskbody>
+        <context>Blue Marlin is the name of the motel we are staying at. <p/></context>
+        <steps>
+            <step>
+                <cmd>Once we arrive in Key West, we will check into the Blue Marlin</cmd>
+            </step>
+            <step>
+                <cmd>There are 5 girls staying in my room at the Blue Marlin</cmd>
+            </step>
+            <step>
+                <cmd>There will be 2 girls to each of the 2 beds in the hotel room</cmd>
+            </step>
+            <step>
+                <cmd>We are bringing a blow up mattress to put in the room for the fifth girl</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
