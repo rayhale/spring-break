@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
- <title>Spring Break</title>
- <topicref href="concepts/Spring%20Break.dita"/>
- <topicref href="tasks/Room.dita"/>
- <topicref href="tasks/Driving.dita"/>
- <topicref href="tasks/funding.dita"/>
-</map>
