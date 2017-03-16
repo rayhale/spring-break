@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/rayhale/Desktop/untitled folder 3/spring  break/temp/webhelp-responsive/spring-break/troubleshooting?><?workdir-uri file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/temp/webhelp-responsive/spring-break/troubleshooting/?><?path2project ../../?><?path2project-uri ../../?><?doctype-public -//OASIS//DTD DITA 1.3 Troubleshooting//EN?><?doctype-system troubleshooting.dtd?><troubleshooting xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="trouble_nnl_tpw_fz" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic troubleshooting/troubleshooting " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/spring-break/troubleshooting/troubleshooting.dita" xtrc="troubleshooting:1;3:42">
+  <title class="- topic/title " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/spring-break/troubleshooting/troubleshooting.dita" xtrc="title:1;4:10">Troubleshooting</title>
+  <troublebody class="- topic/body troubleshooting/troublebody " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/spring-break/troubleshooting/troubleshooting.dita" xtrc="troublebody:1;5:16">
+    <condition class="- topic/section troubleshooting/condition " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/spring-break/troubleshooting/troubleshooting.dita" xtrc="condition:1;6:16">
+      <p class="- topic/p " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/spring-break/troubleshooting/troubleshooting.dita" xtrc="p:1;7:10"> I dont know how to get down to Key West.</p>
+      <p class="- topic/p " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/spring-break/troubleshooting/troubleshooting.dita" xtrc="p:2;8:10">If you don't have a way to get down to Key West, you can go online and buy a plane
+        ticket.</p>
+    </condition>
+    <troubleSolution class="- topic/bodydiv troubleshooting/troubleSolution " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/spring-break/troubleshooting/troubleshooting.dita" xtrc="troubleSolution:1;11:22">
+      <cause class="- topic/section troubleshooting/cause " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/spring-break/troubleshooting/troubleshooting.dita" xtrc="cause:1;12:14">
+        <title class="- topic/title " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/spring-break/troubleshooting/troubleshooting.dita" xtrc="title:2;13:16">You don't have money for a flight.</title>
+        <p class="- topic/p " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/spring-break/troubleshooting/troubleshooting.dita" xtrc="p:3;14:12">Save money by driving down to Key West</p>
+      </cause>
+      <remedy class="- topic/section troubleshooting/remedy " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/spring-break/troubleshooting/troubleshooting.dita" xtrc="remedy:1;16:15">
+        <responsibleParty class="- topic/p troubleshooting/responsibleParty " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/spring-break/troubleshooting/troubleshooting.dita" xtrc="responsibleParty:1;17:27"/>
+        <steps-unordered class="- topic/ul task/steps-unordered " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/spring-break/troubleshooting/troubleshooting.dita" xtrc="steps-unordered:1;18:26">
+          <step class="- topic/li task/step " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/spring-break/troubleshooting/troubleshooting.dita" xtrc="step:1;19:17">
+            <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/spring-break/troubleshooting/troubleshooting.dita" xtrc="cmd:1;20:18"/>
+          </step>
+        </steps-unordered>
+      </remedy>
+    </troubleSolution>
+  </troublebody>
+</troubleshooting>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/rayhale/Desktop/untitled folder 3/spring  break/temp/webhelp-responsive/tasks?><?workdir-uri file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/temp/webhelp-responsive/tasks/?><?path2project ../?><?path2project-uri ../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_itl_d5n_cz" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/tasks/funding.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/tasks/funding.dita" xtrc="title:1;4:12">How we're paying for Spring Break</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/tasks/funding.dita" xtrc="shortdesc:1;5:16">We want to spend as little as possible for this trip because we are broke college
+        students</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/tasks/funding.dita" xtrc="taskbody:1;7:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/tasks/funding.dita" xtrc="context:1;8:18">We are splitting the driving and the room between five people<p class="- topic/p " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/tasks/funding.dita" xtrc="p:1;8:83"/></context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/tasks/funding.dita" xtrc="steps:1;9:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/tasks/funding.dita" xtrc="step:1;10:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/tasks/funding.dita" xtrc="cmd:1;11:22">All of the gas needed to get to Key West and to get back will be split 5
+                    ways</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/tasks/funding.dita" xtrc="step:2;14:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/tasks/funding.dita" xtrc="cmd:2;15:22">We are also all splitting the cost of the hotel room in Titusville, Fl.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/tasks/funding.dita" xtrc="step:3;17:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/rayhale/Desktop/untitled%20folder%203/spring%20%20break/tasks/funding.dita" xtrc="cmd:3;18:22">We went to Walmart before the trip to buy groceries for the trip so that we
+                    don't have to eat every meal out.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
